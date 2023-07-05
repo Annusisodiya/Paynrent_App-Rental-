@@ -79,7 +79,7 @@ export default function RootNavigation() {
               width: 100,
               height: 100,
             }}
-            source={require('../assets/bharat.jpg')}
+            source={require('../assets/pratishthaa.jpg')}
           />
           <Text style={{fontWeight: 'bold'}}>{userInfo.fullname}</Text>
           <Text>+91{userInfo.mobileno}</Text>
